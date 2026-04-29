@@ -7,13 +7,13 @@
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td align="center" width="180">
-<img src="assets/epaulettes_animated.svg" width="130" height="210"/>
+<img src="assets/lenin.png" width="130" height="210"/>
 </td>
 <td align="center" width="260">
 <img src="assets/medal_animated.svg" width="230" height="230"/>
 </td>
 <td align="center" width="180">
-<img src="assets/epaulettes_animated.svg" width="130" height="210"/>
+<img src="assets/lenin.png" width="130" height="210"/>
 </td>
 </tr>
 </table>
