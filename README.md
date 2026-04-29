@@ -13,7 +13,7 @@
 <img src="assets/medal_animated.svg" width="280" height="280"/>
 </td>
 <td align="center" width="190">
-<img src="assets/leninpng" width="190" height="230"/>
+<img src="assets/lenin.png" width="190" height="230"/>
 </td>
 </tr>
 </table>
